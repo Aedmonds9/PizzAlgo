@@ -1,4 +1,5 @@
 Algo.txt
-Order Pizza
+recieve order
 Wait for delivery
-Enjoy
+navigate to address
+deliver pizza
